@@ -1,0 +1,1 @@
+g++ wave_matplotlibcpp.cpp -o main -I /home/ali/miniconda3/envs/cpp/include/python3.10/ -I. -lpython3.10

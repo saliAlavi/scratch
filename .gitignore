@@ -1,3 +1,7 @@
+#Directories    
+# Ignore ImGui directory
+imgui/
+
 # Prerequisites
 *.d
 
