@@ -1,0 +1,4 @@
+/home/ali/projects/scratch/neuron_growth_sim/build/CMakeFiles/rebuild_cache.dir
+/home/ali/projects/scratch/neuron_growth_sim/build/CMakeFiles/edit_cache.dir
+/home/ali/projects/scratch/neuron_growth_sim/build/CMakeFiles/wave_cuda.dir
+/home/ali/projects/scratch/neuron_growth_sim/build/CMakeFiles/imgui_example.dir

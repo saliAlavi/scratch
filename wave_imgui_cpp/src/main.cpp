@@ -26,10 +26,10 @@ void calculate_fps(double delta_time, float& smoothed_fps) {
     }
 }
 
-const int grid_size = 500;
+const int grid_size = 1000;
 float c = 1.0f;      // Wave speed
 const float dt = 0.1f;     // Time step
-const float dx = 1.0f;     // Spatial step
+const float dx = 1.5f;     // Spatial step
 float wave_speed = 1.0f;
 
 float* d_u = nullptr;

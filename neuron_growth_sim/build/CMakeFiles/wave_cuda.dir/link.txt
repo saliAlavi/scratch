@@ -1,0 +1,2 @@
+/usr/bin/ar qc libwave_cuda.a  CMakeFiles/wave_cuda.dir/src/wave_cuda_generated_wave_cuda.cu.o
+/usr/bin/ranlib libwave_cuda.a

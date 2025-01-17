@@ -107,8 +107,7 @@ int main() {
     initialize_wave();
 
     // Main rendering loop
-    while (!glfwWindowShouldClose(window)) {
-        std::cout << "Running" << std::endl;        
+    while (!glfwWindowShouldClose(window)) {        
         glfwPollEvents();
 
         // Update simulation
